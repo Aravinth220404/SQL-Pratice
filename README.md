@@ -1,4 +1,4 @@
-# SQL Practice
+# SQL 
 This repository contains my practice SQL scripts and queries as I learn and explore different concepts in SQL. The focus is on building a strong foundation for data querying, manipulation, and analysis.
 
 ## Contents
